@@ -1,8 +1,8 @@
-Origin: SwedishPrxck's Repo
+Origin: SwedishPrxck
 Label: SwedishPrxck
 Suite: stable
 Version: 1.0
-Codename: SwedishPrxck
-Architecture: iphoneos-arm
+Codename: ios
+Architectures: iphoneos-arm
 Components: main
-Description: Stuff I do in my free time
+Description: Things I do in my free time. I port stuff.
