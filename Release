@@ -1,0 +1,8 @@
+Origin: SwedishPrxck's Repo
+Label: SwedishPrxck
+Suite: stable
+Version: 1.0
+Codename: SwedishPrxck
+Architecture: iphoneos-arm
+Components: main
+Description: Stuff I do in my free time
